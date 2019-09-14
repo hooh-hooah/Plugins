@@ -4,7 +4,7 @@
 
 ## AI_Heelz
 
-A mod that adds some heels.
+A BepinEx Plugin that simulates high heels behavior on AI Girls
 
 ## AI_GrabRave
 
