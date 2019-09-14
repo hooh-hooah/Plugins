@@ -1,0 +1,6 @@
+[submodule "AI_Heelz"]
+	path = AI_Heelz
+	url = https://github.com/hooh-hooah/AI_Heelz.git
+[submodule "AI_GrabRave"]
+	path = AI_GrabRave
+	url = https://github.com/hooh-hooah/AI_GrabRave.git
